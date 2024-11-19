@@ -27,7 +27,7 @@ Salut ! Moi, c'est **Bastien ou MrBastos **, un développeur **Front-End Junior*
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-red?logo=figma)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
 
 ---
 
