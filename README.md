@@ -60,9 +60,8 @@ Salut ! Moi, c'est **Bastien ou MrBastos **, un développeur **Front-End Junior*
 
 ## 📬 Contacte-moi !
 
-- 📧 **Email :** [ton.email@mail.com](mailto:ton.email@mail.com)  
-- 🌐 **LinkedIn :** [Mon profil LinkedIn](https://linkedin.com/in/ton-profil)  
-- 🚀 **Portfolio (si disponible) :** [Lien vers ton portfolio](https://tonportfolio.com)
+- 📧 **Email :** [bastien0714@gmail.com](mailto:ton.email@mail.com)  
+- 🌐 **LinkedIn :** [Mon profil LinkedIn](https://linkedin.com/in/bastien-chotin-a884a61b6/)  
 
 ---
 
