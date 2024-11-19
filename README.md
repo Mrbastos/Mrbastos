@@ -58,13 +58,6 @@ Salut ! Moi, c'est **Bastien ou MrBastos **, un développeur **Front-End Junior*
 
 ---
 
-## 📈 Mes stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=radical)
-
----
-
 ## 📬 Contacte-moi !
 
 - 📧 **Email :** [ton.email@mail.com](mailto:ton.email@mail.com)  
