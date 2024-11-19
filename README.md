@@ -1,10 +1,11 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Salut ! Je suis ** MrBastos ou plus simplement Bastien **, un développeur **Front-End Junior** passionné par la création d'interfaces web modernes et esthétiques. 🚀
+Salut ! Moi, c'est **Bastien ou MrBastos **, un développeur **Front-End Junior** avec une première expérience professionnelle réussie. 🚀
 
-🌱 **En apprentissage :** Actuellement, je me perfectionne en **React**, **CSS avancé** et en **optimisation des performances front-end**.  
-🎯 **Objectif :** Construire des expériences utilisateur engageantes et accessibles.  
-📚 **Intéressé par :** Les animations web, le design responsive, et les outils modernes comme TailwindCSS ou Next.js.
+👨‍💻 **Passionné par le développement web**, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et contribuer à des projets innovants. J'aime particulièrement :
+- 🌟 Créer des interfaces utilisateurs modernes et intuitives.
+- 🛠️ Travailler avec des technologies front-end comme **React**, **Next.js**, et **TailwindCSS**.
+- 🌱 Apprendre en continu et partager mes connaissances.
 
 ---
 
@@ -16,36 +17,61 @@ Salut ! Je suis ** MrBastos ou plus simplement Bastien **, un développeur **F
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+### 🌟 Back-End et CMS
+![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ### 🔧 Outils
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-red?logo=figma)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
+---
+
+## 💼 Mon expérience
+
+- 🏢 **Link Consulting** *(Avril 2023 – Novembre 2023)*  
+   **Rôle :** Développeur Front-End Junior  
+   **Mission :**
+   - Développement de composants React réutilisables.
+   - Intégration de designs responsives et animations CSS.
+   - Collaboration avec une équipe agile pour livrer des fonctionnalités en temps voulu.
+
+-  🏢 **Stage de fin d'études – Développeur Front-End**
+- **Entreprise :** Digitalyz
+- **Période :*Octobre 2022 - Novembre 2022* 
+- 👾 **Création d'une application de live quiz** :
+  - Développement de l'interface utilisateur avec **React** pour des interactions fluides et en temps réel.
+  - Intégration de **WebSockets** pour la synchronisation instantanée des questions et des réponses.
+  - Collaboration avec une API développée sous **Strapi**, pour gérer les contenus des quiz (questions, réponses).
+  - Conception d'une interface responsive pour s'assurer d'une diffusion optimale, même sur mobile.
+---
+
+## 🎯 Mes objectifs actuels
+
+- 🔍 Relever de nouveaux défis dans le développement web.
+- 📚 Maîtriser des technologies comme **Next.js**, **TypeScript**, et les **tests unitaires (Jest, React Testing Library)**.
+- 💡 Participer à des projets collaboratifs ou open-source.
 
 ---
 
 ## 📈 Mes stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight)
-
----
-
-## ✨ Quelques infos sur moi
-
-- 💻 **Pourquoi le développement front ?** Parce que j’adore donner vie à des designs et rendre le web interactif.  
-- 🖌️ **Autres passions :** La photo et la cuisine .  
-- 🎮 **Loisirs :** Jeux vidéo, cuisine et la photographie.  
-- 🤝 **Je cherche :** À collaborer sur des projets open-source ou à intégrer une équipe pour grandir en tant que développeur frontend .
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Contacte-moi !
 
-- 📧 **Email :** [bastien0714l@gmail.com](mailto:ton.email@mail.com)  
-- 🌐 **LinkedIn :** [Mon profil](https://linkedin.com/in/bastien-chotin-a884a61b6/)
+- 📧 **Email :** [ton.email@mail.com](mailto:ton.email@mail.com)  
+- 🌐 **LinkedIn :** [Mon profil LinkedIn](https://linkedin.com/in/ton-profil)  
+- 🚀 **Portfolio (si disponible) :** [Lien vers ton portfolio](https://tonportfolio.com)
 
 ---
 
-⭐️ Si tu veux en savoir plus, n’hésite pas à explorer mes repos ou à me suivre !
+⭐️ **N’hésite pas à explorer mes repos ou à me contacter pour discuter de projets et d’opportunités passionnantes !** 😊
+
