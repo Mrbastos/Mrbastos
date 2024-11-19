@@ -33,9 +33,9 @@ Salut ! Je suis ** MrBastos ou plus simplement Bastien **, un développeur **F
 ## ✨ Quelques infos sur moi
 
 - 💻 **Pourquoi le développement front ?** Parce que j’adore donner vie à des designs et rendre le web interactif.  
-- 🖌️ **Autres passions :** Le design graphique et les illustrations.  
-- 🎮 **Loisirs :** Jeux vidéo, veille technologique, et exploration des frameworks front.  
-- 🤝 **Je cherche :** À collaborer sur des projets open-source ou à intégrer une équipe pour grandir en tant que développeur.
+- 🖌️ **Autres passions :** La photo et la cuisine .  
+- 🎮 **Loisirs :** Jeux vidéo, cuisine et la photographie.  
+- 🤝 **Je cherche :** À collaborer sur des projets open-source ou à intégrer une équipe pour grandir en tant que développeur frontend .
 
 ---
 
