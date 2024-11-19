@@ -15,6 +15,8 @@ Salut ! Je suis ** MrBastos ou plus simplement Bastien **, un développeur **F
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
+
 
 ### 🔧 Outils
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
