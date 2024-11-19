@@ -48,6 +48,12 @@ Salut ! Moi, c'est **Bastien ou MrBastos **, un développeur **Front-End Junior*
   - Intégration de **WebSockets** pour la synchronisation instantanée des questions et des réponses.
   - Collaboration avec une API développée sous **Strapi**, pour gérer les contenus des quiz (questions, réponses).
   - Conception d'une interface responsive pour s'assurer d'une diffusion optimale, même sur mobile.
+ 
+- 🛠️ **Technologies utilisées :**
+  - Front-End : React, CSS modules.
+  - Back-End : Strapi, WebSockets, Node.js.
+  - Outils : Git, Figma pour les maquettes.
+
 ---
 
 ## 🎯 Mes objectifs actuels
